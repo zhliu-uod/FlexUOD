@@ -7,4 +7,4 @@ ResNet: https://drive.google.com/drive/folders/1UsDMbE3cbA4FgcD4lDiaL2fDxiuwcmHA
 CLIP: https://drive.google.com/drive/folders/1XjchpD1gEnTeVDSOhYkAkNUxz6CI0l-G?usp=sharing
 and then put into the main path.
 
-## Step 2: run main.ipynb.
+## Step 2: run FlexUOD.ipynb.
